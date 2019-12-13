@@ -1,0 +1,3 @@
+[submodule "threejs-teaching"]
+	path = threejs-teaching
+	url = git@github.com:kcollinssibley/threejs-teaching.git
